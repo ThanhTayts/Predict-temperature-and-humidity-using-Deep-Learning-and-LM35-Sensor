@@ -8,10 +8,15 @@
 ### II.Thu Thập dữ liệu nhiệt độ và cập nhật lên Google Sheet
   + Tham khảo video : https://www.youtube.com/watch?v=okNECYf2xlY
   + Code : https://drive.google.com/file/d/1I2C_W4aw6gnJR27QAEaQBddxFssY8Ls-/view
+  + Tập dữ liệu sau khi thu thập : LM35.csv
 ![image](https://user-images.githubusercontent.com/92384494/166856929-f16c2f78-ae0a-4887-b13a-824a4ba7daeb.png)
 ![image](https://user-images.githubusercontent.com/92384494/166857003-22668ce1-464f-49eb-a96d-dd4584d1f488.png)
-### IV.Tiến hành sử lý dữ liệu và huấn luyện mô hình sủ dụng mạng LSTM
+### III.Tiến hành sử lý dữ liệu và huấn luyện mô hình sủ dụng mạng LSTM
+  + Tham khảo về mô hình mạng RNN và LSTM : https://dominhhai.github.io/vi/2017/10/what-is-rnn/
+  + Link Google Colab : https://colab.research.google.com/drive/1AHkA-7tSUBN9doDijVK2BFVIRwuCPXyF
+  + File code : LSTM.ipynb
 ### V. Dự đoán kết quả
+  + Sử dụng file trọng số sau quá trình huấn luyện để tiến hành dự đoán
 ![image](https://user-images.githubusercontent.com/92384494/166857130-3ef36f74-6568-44d9-966a-268808a90b7f.png)
 ![image](https://user-images.githubusercontent.com/92384494/166857141-77b40f59-2e26-403a-9ac0-20e9b4616157.png)
 
