@@ -13,10 +13,11 @@
   + ![image](https://user-images.githubusercontent.com/92384494/166857003-22668ce1-464f-49eb-a96d-dd4584d1f488.png)
 #### III.Tiến hành sử lý dữ liệu và huấn luyện mô hình sủ dụng mạng LSTM
   + Tham khảo về mô hình mạng RNN và LSTM : https://dominhhai.github.io/vi/2017/10/what-is-rnn/
+  + Tham khảo bài viết : https://viblo.asia/s/su-dung-mang-lstm-long-short-term-memory-de-du-doan-co-phieu-24lJDz06KPM
   + Link Google Colab : https://colab.research.google.com/drive/1AHkA-7tSUBN9doDijVK2BFVIRwuCPXyF
   + File code : LSTM.ipynb
   + ![image](https://user-images.githubusercontent.com/92384494/166881645-c35aebe2-cb6e-431a-b4df-e4959161174c.png)
-  + ![image](https://user-images.githubusercontent.com/92384494/166881685-35f1db94-0876-4de9-924d-70de3b94f7d0.png)
+  + ![image](https://user-images.githubusercontent.com/92384494/166882390-c33631c0-5d58-4147-b55d-1ac7629f203c.png)
 #### V. Dự đoán kết quả
   + Sử dụng file trọng số sau quá trình huấn luyện để tiến hành dự đoán
   + File trọng số đã train sẵn : 10_7.h5
