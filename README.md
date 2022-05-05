@@ -1,2 +1,2 @@
 # Project
-My Project for Deep Learning and Computer Vision
+Dự đoán nhiệt độ, độ ẩm sử dụng mạng LSTM
